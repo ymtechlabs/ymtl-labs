@@ -98,3 +98,8 @@ These screenshots verify the completed lab environment.
 
 ### Domain-Joined Client
 ![WIN11-CL01 DHCP and DNS validation](images/YMTL-LAB-001-06-WIN11-DHCP-DNS-Validation.png)
+
+
+## Companion Guide
+
+For the complete guided walkthrough, get the [Windows Server 2022 Home Lab Starter Guide](https://techlabsyam.gumroad.com/l/windows-server-2022-home-lab-starter-guide).
