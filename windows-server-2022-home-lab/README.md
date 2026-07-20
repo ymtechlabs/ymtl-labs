@@ -84,3 +84,17 @@ Expected values:
 The illustrated step-by-step guide is available as **YMTL-PRD-001: Windows Server 2022 Home Lab Starter Guide**.
 
 > Learn. Build. Secure.
+
+
+## Verification Evidence
+
+These screenshots verify the completed lab environment.
+
+### VMware Host-Only Network
+![VMnet2 host-only network configuration](images/YMTL-LAB-001-01-VMnet2-Configuration.png)
+
+### DHCP Scope
+![Active DHCP scope](images/YMTL-LAB-001-07-DHCP-Scope-Active.png)
+
+### Domain-Joined Client
+![WIN11-CL01 DHCP and DNS validation](images/YMTL-LAB-001-06-WIN11-DHCP-DNS-Validation.png)
