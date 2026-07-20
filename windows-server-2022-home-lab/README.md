@@ -103,3 +103,21 @@ These screenshots verify the completed lab environment.
 ## Companion Guide
 
 For the complete guided walkthrough, get the [Windows Server 2022 Home Lab Starter Guide](https://techlabsyam.gumroad.com/l/windows-server-2022-home-lab-starter-guide).
+
+
+## Additional Verification
+
+### DC01 Network Configuration
+![DC01 static IPv4 configuration](images/YMTL-LAB-001-02-DC01-Network-Configuration.png)
+
+### DC01 Domain Services
+![DC01 joined to ymtlab.test](images/YMTL-LAB-001-03-DC01-Domain-Services.png)
+
+### WIN11-CL01 Domain Membership
+![WIN11-CL01 joined to ymtlab.test](images/YMTL-LAB-001-04-WIN11-Joined-Domain.png)
+
+### Client DHCP and DNS Validation
+![WIN11-CL01 ipconfig all output](images/YMTL-LAB-001-05-WIN11-IPConfig-All.png)
+
+### DHCP Scope Console
+![Active DHCP scope console](images/YMTL-LAB-001-08-DHCP-Console-Scope-Active.png)
